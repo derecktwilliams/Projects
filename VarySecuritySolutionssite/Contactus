@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<head>
+    <link rel="stylesheet" href=".\Homepage.css">
+</head>
+
 <form action="/action_page.php">
     <label for="fname">First name:</label><br>
     <input type="text" id="fname" name="fname" value="John"><br>
